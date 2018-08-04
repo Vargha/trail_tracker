@@ -1,0 +1,5 @@
+gunicorn
+haversine
+flask
+flask_cors
+Whoosh

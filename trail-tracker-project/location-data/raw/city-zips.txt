@@ -1,0 +1,1222 @@
+97001 Antelope
+97002 Aurora
+97004 Beavercreek
+97005 Beaverton
+97006 Beaverton
+97007 Beaverton
+97008 Beaverton
+97009 Boring
+97010 Bridal Veil
+97011 Brightwood
+97013 Canby
+97014 Cascade Locks
+97015 Clackamas
+97016 Clatskanie
+97017 Colton
+97018 Columbia City
+97019 Corbett
+97020 Donald
+97021 Dufur
+97022 Eagle Creek
+97023 Estacada
+97024 Fairview
+97026 Gervais
+97027 Gladstone
+97028 Government Camp
+97029 Grass Valley
+97030 Gresham
+97031 Hood River
+97032 Hubbard
+97033 Kent
+97034 Lake Oswego
+97035 Lake Oswego
+97036 Marylhurst
+97037 Maupin
+97038 Molalla
+97039 Moro
+97040 Mosier
+97041 Mount Hood Parkdale
+97042 Mulino
+97044 Odell
+97045 Oregon City
+97048 Rainier
+97049 Rhododendron
+97050 Rufus
+97051 Saint Helens
+97053 Warren
+97054 Deer Island
+97055 Sandy
+97056 Scappoose
+97057 Shaniko
+97058 The Dalles
+97060 Troutdale
+97062 Tualatin
+97063 Tygh Valley
+97064 Vernonia
+97065 Wasco
+97067 Welches
+97068 West Linn
+97070 Wilsonville
+97071 Woodburn
+97075 Beaverton
+97076 Beaverton
+97077 Beaverton
+97078 Beaverton
+97080 Gresham
+97086 Happy Valley
+97089 Damascus
+97101 Amity
+97102 Arch Cape
+97103 Astoria
+97106 Banks
+97107 Bay City
+97108 Beaver
+97109 Buxton
+97110 Cannon Beach
+97111 Carlton
+97112 Cloverdale
+97113 Cornelius
+97114 Dayton
+97115 Dundee
+97116 Forest Grove
+97117 Gales Creek
+97118 Garibaldi
+97119 Gaston
+97121 Hammond
+97122 Hebo
+97123 Hillsboro
+97124 Hillsboro
+97125 Manning
+97127 Lafayette
+97128 Mcminnville
+97130 Manzanita
+97131 Nehalem
+97132 Newberg
+97133 North Plains
+97134 Oceanside
+97135 Pacific City
+97136 Rockaway Beach
+97137 Saint Paul
+97138 Seaside
+97140 Sherwood
+97141 Tillamook
+97143 Netarts
+97144 Timber
+97145 Tolovana Park
+97146 Warrenton
+97147 Wheeler
+97148 Yamhill
+97149 Neskowin
+97201 Portland
+97202 Portland
+97203 Portland
+97204 Portland
+97205 Portland
+97206 Portland
+97207 Portland
+97208 Portland
+97209 Portland
+97210 Portland
+97211 Portland
+97212 Portland
+97213 Portland
+97214 Portland
+97215 Portland
+97216 Portland
+97217 Portland
+97218 Portland
+97219 Portland
+97220 Portland
+97221 Portland
+97222 Portland
+97223 Portland
+97224 Portland
+97225 Portland
+97227 Portland
+97228 Portland
+97229 Portland
+97230 Portland
+97231 Portland
+97232 Portland
+97233 Portland
+97236 Portland
+97238 Portland
+97239 Portland
+97240 Portland
+97242 Portland
+97250 Beaverton
+97251 Portland
+97252 Portland
+97253 Portland
+97254 Portland
+97255 Portland
+97256 Portland
+97258 Portland
+97259 Portland
+97266 Portland
+97267 Portland
+97268 Portland
+97269 Portland
+97271 Portland
+97272 Portland
+97280 Portland
+97281 Portland
+97282 Portland
+97283 Portland
+97286 Portland
+97290 Portland
+97291 Portland
+97292 Portland
+97293 Portland
+97294 Portland
+97296 Portland
+97298 Portland
+97299 Portland
+97301 Salem
+97302 Salem
+97303 Salem
+97304 Salem
+97305 Salem
+97306 Salem
+97307 Keizer
+97308 Salem
+97309 Salem
+97310 Salem
+97311 Salem
+97312 Salem
+97313 Salem
+97314 Salem
+97317 Salem
+97321 Albany
+97322 Albany
+97324 Alsea
+97325 Aumsville
+97326 Blodgett
+97327 Brownsville
+97329 Cascadia
+97330 Corvallis
+97331 Corvallis
+97333 Corvallis
+97335 Crabtree
+97336 Crawfordsville
+97338 Dallas
+97339 Corvallis
+97341 Depoe Bay
+97342 Detroit
+97343 Eddyville
+97344 Falls City
+97345 Foster
+97346 Gates
+97347 Grand Ronde
+97348 Halsey
+97350 Idanha
+97351 Independence
+97352 Jefferson
+97355 Lebanon
+97357 Logsden
+97358 Lyons
+97360 Mill City
+97361 Monmouth
+97362 Mount Angel
+97364 Neotsu
+97365 Newport
+97366 South Beach
+97367 Lincoln City
+97368 Otis
+97369 Otter Rock
+97370 Philomath
+97371 Rickreall
+97372 Rose Lodge
+97373 Saint Benedict
+97374 Scio
+97375 Scotts Mills
+97376 Seal Rock
+97377 Shedd
+97378 Sheridan
+97380 Siletz
+97381 Silverton
+97383 Stayton
+97384 Mehama
+97385 Sublimity
+97386 Sweet Home
+97388 Gleneden Beach
+97389 Tangent
+97390 Tidewater
+97391 Toledo
+97392 Turner
+97394 Waldport
+97396 Willamina
+97401 Eugene
+97402 Eugene
+97403 Eugene
+97404 Eugene
+97405 Eugene
+97406 Agness
+97407 Allegany
+97408 Eugene
+97409 Alvadore
+97410 Azalea
+97411 Bandon
+97412 Blachly
+97413 Blue River
+97414 Broadbent
+97415 Brookings
+97416 Camas Valley
+97417 Canyonville
+97419 Cheshire
+97420 Coos Bay
+97423 Coquille
+97424 Cottage Grove
+97425 Crescent Lake
+97426 Creswell
+97427 Culp Creek
+97428 Curtin
+97429 Days Creek
+97430 Deadwood
+97431 Dexter
+97432 Dillard
+97434 Dorena
+97435 Drain
+97436 Elkton
+97437 Elmira
+97438 Fall Creek
+97439 Florence
+97440 Eugene
+97441 Gardiner
+97442 Glendale
+97443 Glide
+97444 Gold Beach
+97446 Harrisburg
+97447 Idleyld Park
+97448 Junction City
+97449 Lakeside
+97450 Langlois
+97451 Lorane
+97452 Lowell
+97453 Mapleton
+97454 Marcola
+97455 Pleasant Hill
+97456 Monroe
+97457 Myrtle Creek
+97458 Myrtle Point
+97459 North Bend
+97461 Noti
+97462 Oakland
+97463 Oakridge
+97464 Ophir
+97465 Port Orford
+97466 Powers
+97467 Reedsport
+97469 Riddle
+97470 Roseburg
+97471 Roseburg
+97472 Cottage Grove
+97473 Scottsburg
+97475 Springfield
+97476 Sixes
+97477 Springfield
+97478 Springfield
+97479 Sutherlin
+97480 Swisshome
+97481 Tenmile
+97482 Thurston
+97484 Tiller
+97486 Umpqua
+97487 Veneta
+97488 Vida
+97489 Walterville
+97490 Walton
+97491 Wedderburn
+97492 Westfir
+97493 Westlake
+97494 Wilbur
+97495 Winchester
+97496 Winston
+97497 Wolf Creek
+97498 Yachats
+97499 Yoncalla
+97501 Medford
+97502 Central Point
+97503 White City
+97504 Medford
+97520 Ashland
+97522 Butte Falls
+97523 Cave Junction
+97524 Eagle Point
+97525 Gold Hill
+97526 Grants Pass
+97527 Grants Pass
+97528 Grants Pass
+97530 Jacksonville
+97531 Kerby
+97532 Merlin
+97533 Murphy
+97534 O Brien
+97535 Phoenix
+97536 Prospect
+97537 Rogue River
+97538 Selma
+97539 Shady Cove
+97540 Talent
+97541 Trail
+97543 Wilderville
+97544 Williams
+97601 Klamath Falls
+97602 Klamath Falls
+97603 Klamath Falls
+97604 Crater Lake
+97620 Adel
+97621 Beatty
+97622 Bly
+97623 Bonanza
+97624 Chiloquin
+97625 Dairy
+97626 Fort Klamath
+97627 Keno
+97630 Lakeview
+97632 Malin
+97633 Merrill
+97634 Midland
+97635 New Pine Creek
+97636 Paisley
+97637 Plush
+97638 Silver Lake
+97639 Sprague River
+97640 Summer Lake
+97641 Christmas Valley
+97701 Bend
+97702 Bend
+97703 Bend
+97707 Bend
+97708 Bend
+97709 Bend
+97710 Fields
+97711 Ashwood
+97712 Brothers
+97720 Burns
+97721 Princeton
+97722 Diamond
+97730 Camp Sherman
+97731 Chemult
+97732 Crane
+97733 Crescent
+97734 Culver
+97735 Fort Rock
+97736 Frenchglen
+97737 Gilchrist
+97738 Hines
+97739 La Pine
+97741 Madras
+97750 Mitchell
+97751 Paulina
+97752 Post
+97753 Powell Butte
+97754 Prineville
+97756 Redmond
+97758 Riley
+97759 Sisters
+97760 Terrebonne
+97761 Warm Springs
+97801 Pendleton
+97810 Adams
+97812 Arlington
+97813 Athena
+97814 Baker City
+97817 Bates
+97818 Boardman
+97819 Bridgeport
+97820 Canyon City
+97823 Condon
+97824 Cove
+97825 Dayville
+97826 Echo
+97827 Elgin
+97828 Enterprise
+97830 Fossil
+97833 Haines
+97834 Halfway
+97835 Helix
+97836 Heppner
+97837 Hereford
+97838 Hermiston
+97839 Lexington
+97840 Oxbow
+97841 Imbler
+97842 Imnaha
+97843 Ione
+97844 Irrigon
+97845 John Day
+97846 Joseph
+97848 Kimberly
+97850 La Grande
+97856 Long Creek
+97857 Lostine
+97859 Meacham
+97861 Mikkalo
+97862 Milton Freewater
+97864 Monument
+97865 Mount Vernon
+97867 North Powder
+97868 Pilot Rock
+97869 Prairie City
+97870 Richland
+97873 Seneca
+97874 Spray
+97875 Stanfield
+97876 Summerville
+97877 Sumpter
+97880 Ukiah
+97882 Umatilla
+97883 Union
+97884 Unity
+97885 Wallowa
+97886 Weston
+97901 Adrian
+97902 Arock
+97903 Brogan
+97904 Drewsey
+97905 Durkee
+97906 Harper
+97907 Huntington
+97908 Ironside
+97909 Jamieson
+97910 Jordan Valley
+97911 Juntura
+97913 Nyssa
+97914 Ontario
+97917 Riverside
+97918 Vale
+97920 Westfall
+98001 Auburn
+98002 Auburn
+98003 Federal Way
+98004 Bellevue
+98005 Bellevue
+98006 Bellevue
+98007 Bellevue
+98008 Bellevue
+98009 Bellevue
+98010 Black Diamond
+98011 Bothell
+98012 Bothell
+98013 Burton
+98014 Carnation
+98015 Bellevue
+98019 Duvall
+98020 Edmonds
+98021 Bothell
+98022 Enumclaw
+98023 Federal Way
+98024 Fall City
+98025 Hobart
+98026 Edmonds
+98027 Issaquah
+98028 Kenmore
+98029 Issaquah
+98030 Kent
+98031 Kent
+98032 Kent
+98033 Kirkland
+98034 Kirkland
+98035 Kent
+98036 Lynnwood
+98037 Lynnwood
+98038 Maple Valley
+98039 Medina
+98040 Mercer Island
+98041 Bothell
+98042 Kent
+98043 Mountlake Terrace
+98045 North Bend
+98046 Lynnwood
+98047 Pacific
+98050 Preston
+98051 Ravensdale
+98052 Redmond
+98053 Redmond
+98054 Redondo
+98055 Renton
+98056 Renton
+98057 Renton
+98058 Renton
+98059 Renton
+98061 Rollingbay
+98062 Seahurst
+98063 Federal Way
+98064 Kent
+98065 Snoqualmie
+98068 Snoqualmie Pass
+98070 Vashon
+98071 Auburn
+98072 Woodinville
+98073 Redmond
+98074 Sammamish
+98075 Sammamish
+98077 Woodinville
+98082 Mill Creek
+98083 Kirkland
+98087 Lynnwood
+98089 Kent
+98092 Auburn
+98093 Federal Way
+98101 Seattle
+98102 Seattle
+98103 Seattle
+98104 Seattle
+98105 Seattle
+98106 Seattle
+98107 Seattle
+98108 Seattle
+98109 Seattle
+98110 Bainbridge Island
+98111 Seattle
+98112 Seattle
+98113 Seattle
+98114 Seattle
+98115 Seattle
+98116 Seattle
+98117 Seattle
+98118 Seattle
+98119 Seattle
+98121 Seattle
+98122 Seattle
+98124 Seattle
+98125 Seattle
+98126 Seattle
+98127 Seattle
+98129 Seattle
+98131 Seattle
+98132 Seattle
+98133 Seattle
+98134 Seattle
+98136 Seattle
+98138 Seattle
+98139 Seattle
+98141 Seattle
+98144 Seattle
+98145 Seattle
+98146 Seattle
+98148 Seattle
+98151 Seattle
+98154 Seattle
+98155 Seattle
+98158 Seattle
+98160 Seattle
+98161 Seattle
+98164 Seattle
+98165 Seattle
+98166 Seattle
+98168 Seattle
+98170 Seattle
+98171 Seattle
+98174 Seattle
+98175 Seattle
+98177 Seattle
+98178 Seattle
+98181 Seattle
+98184 Seattle
+98185 Seattle
+98188 Seattle
+98189 Seattle
+98190 Seattle
+98191 Seattle
+98194 Seattle
+98195 Seattle
+98198 Seattle
+98199 Seattle
+98201 Everett
+98203 Everett
+98204 Everett
+98205 Everett
+98206 Everett
+98207 Everett
+98208 Everett
+98213 Everett
+98220 Acme
+98221 Anacortes
+98222 Blakely Island
+98223 Arlington
+98224 Baring
+98225 Bellingham
+98226 Bellingham
+98227 Bellingham
+98228 Bellingham
+98229 Bellingham
+98230 Blaine
+98231 Blaine
+98232 Bow
+98233 Burlington
+98235 Clearlake
+98236 Clinton
+98237 Concrete
+98238 Conway
+98239 Coupeville
+98240 Custer
+98241 Darrington
+98243 Deer Harbor
+98244 Deming
+98245 Eastsound
+98247 Everson
+98248 Ferndale
+98249 Freeland
+98250 Friday Harbor
+98251 Gold Bar
+98252 Granite Falls
+98253 Greenbank
+98255 Hamilton
+98256 Index
+98257 La Conner
+98258 Lake Stevens
+98259 North Lakewood
+98260 Langley
+98261 Lopez Island
+98262 Lummi Island
+98263 Lyman
+98264 Lynden
+98266 Maple Falls
+98267 Marblemount
+98270 Marysville
+98271 Marysville
+98272 Monroe
+98273 Mount Vernon
+98274 Mount Vernon
+98275 Mukilteo
+98276 Nooksack
+98277 Oak Harbor
+98278 Oak Harbor
+98279 Olga
+98280 Orcas
+98281 Point Roberts
+98282 Camano Island
+98283 Rockport
+98284 Sedro Woolley
+98286 Shaw Island
+98287 Silvana
+98288 Skykomish
+98290 Snohomish
+98291 Snohomish
+98292 Stanwood
+98293 Startup
+98294 Sultan
+98295 Sumas
+98296 Snohomish
+98297 Waldron
+98303 Anderson Island
+98304 Ashford
+98305 Beaver
+98310 Bremerton
+98311 Bremerton
+98312 Bremerton
+98314 Bremerton
+98315 Silverdale
+98320 Brinnon
+98321 Buckley
+98322 Burley
+98323 Carbonado
+98324 Carlsborg
+98325 Chimacum
+98326 Clallam Bay
+98327 Dupont
+98328 Eatonville
+98329 Gig Harbor
+98330 Elbe
+98331 Forks
+98332 Gig Harbor
+98333 Fox Island
+98335 Gig Harbor
+98336 Glenoma
+98337 Bremerton
+98338 Graham
+98339 Port Hadlock
+98340 Hansville
+98342 Indianola
+98343 Joyce
+98344 Kapowsin
+98345 Keyport
+98346 Kingston
+98348 La Grande
+98349 Lakebay
+98350 La Push
+98351 Longbranch
+98352 Sumner
+98353 Manchester
+98354 Milton
+98355 Mineral
+98356 Morton
+98357 Neah Bay
+98358 Nordland
+98359 Olalla
+98360 Orting
+98361 Packwood
+98362 Port Angeles
+98363 Port Angeles
+98364 Port Gamble
+98365 Port Ludlow
+98366 Port Orchard
+98367 Port Orchard
+98368 Port Townsend
+98370 Poulsbo
+98371 Puyallup
+98372 Puyallup
+98373 Puyallup
+98374 Puyallup
+98375 Puyallup
+98376 Quilcene
+98377 Randle
+98378 Retsil
+98380 Seabeck
+98381 Sekiu
+98382 Sequim
+98383 Silverdale
+98384 South Colby
+98385 South Prairie
+98386 Southworth
+98387 Spanaway
+98388 Steilacoom
+98390 Sumner
+98391 Bonney Lake
+98392 Suquamish
+98393 Tracyton
+98394 Vaughn
+98395 Wauna
+98396 Wilkeson
+98397 Longmire
+98398 Paradise Inn
+98401 Tacoma
+98402 Tacoma
+98403 Tacoma
+98404 Tacoma
+98405 Tacoma
+98406 Tacoma
+98407 Tacoma
+98408 Tacoma
+98409 Tacoma
+98411 Tacoma
+98412 Tacoma
+98413 Tacoma
+98415 Tacoma
+98416 Tacoma
+98417 Tacoma
+98418 Tacoma
+98419 Tacoma
+98421 Tacoma
+98422 Tacoma
+98424 Tacoma
+98430 Camp Murray
+98431 Tacoma
+98433 Tacoma
+98438 Mcchord Afb
+98439 Lakewood
+98442 Tacoma
+98443 Tacoma
+98444 Tacoma
+98445 Tacoma
+98446 Tacoma
+98447 Tacoma
+98448 Tacoma
+98450 Tacoma
+98455 Tacoma
+98460 Tacoma
+98464 Tacoma
+98465 Tacoma
+98466 Tacoma
+98467 University Place
+98471 Tacoma
+98477 Tacoma
+98481 Tacoma
+98490 Tacoma
+98492 Tacoma
+98493 Tacoma
+98496 Lakewood
+98497 Lakewood
+98498 Lakewood
+98499 Lakewood
+98501 Olympia
+98502 Olympia
+98503 Lacey
+98504 Olympia
+98505 Olympia
+98506 Olympia
+98507 Olympia
+98508 Olympia
+98509 Lacey
+98511 Tumwater
+98512 Olympia
+98513 Olympia
+98516 Olympia
+98520 Aberdeen
+98522 Adna
+98524 Allyn
+98526 Amanda Park
+98527 Bay Center
+98528 Belfair
+98530 Bucoda
+98531 Centralia
+98532 Chehalis
+98533 Cinebar
+98535 Copalis Beach
+98536 Copalis Crossing
+98537 Cosmopolis
+98538 Curtis
+98539 Doty
+98540 East Olympia
+98541 Elma
+98542 Ethel
+98544 Galvin
+98546 Grapeview
+98547 Grayland
+98548 Hoodsport
+98550 Hoquiam
+98552 Humptulips
+98554 Lebam
+98555 Lilliwaup
+98556 Littlerock
+98557 Mccleary
+98558 Mckenna
+98559 Malone
+98560 Matlock
+98561 Menlo
+98562 Moclips
+98563 Montesano
+98564 Mossyrock
+98565 Napavine
+98566 Neilton
+98568 Oakville
+98569 Ocean Shores
+98570 Onalaska
+98571 Pacific Beach
+98572 Pe Ell
+98575 Quinault
+98576 Rainier
+98577 Raymond
+98579 Rochester
+98580 Roy
+98581 Ryderwood
+98582 Salkum
+98583 Satsop
+98584 Shelton
+98585 Silver Creek
+98586 South Bend
+98587 Taholah
+98588 Tahuya
+98589 Tenino
+98590 Tokeland
+98591 Toledo
+98592 Union
+98593 Vader
+98595 Westport
+98596 Winlock
+98597 Yelm
+98599 Olympia
+98601 Amboy
+98602 Appleton
+98603 Ariel
+98604 Battle Ground
+98605 Bingen
+98606 Brush Prairie
+98607 Camas
+98609 Carrolls
+98610 Carson
+98611 Castle Rock
+98612 Cathlamet
+98613 Centerville
+98614 Chinook
+98616 Cougar
+98617 Dallesport
+98619 Glenwood
+98620 Goldendale
+98621 Grays River
+98622 Heisson
+98623 Husum
+98624 Ilwaco
+98625 Kalama
+98626 Kelso
+98628 Klickitat
+98629 La Center
+98631 Long Beach
+98632 Longview
+98635 Lyle
+98637 Nahcotta
+98638 Naselle
+98639 North Bonneville
+98640 Ocean Park
+98641 Oysterville
+98642 Ridgefield
+98643 Rosburg
+98644 Seaview
+98645 Silverlake
+98647 Skamokawa
+98648 Stevenson
+98649 Toutle
+98650 Trout Lake
+98651 Underwood
+98660 Vancouver
+98661 Vancouver
+98662 Vancouver
+98663 Vancouver
+98664 Vancouver
+98665 Vancouver
+98666 Vancouver
+98667 Vancouver
+98668 Vancouver
+98670 Wahkiacus
+98671 Washougal
+98672 White Salmon
+98673 Wishram
+98674 Woodland
+98675 Yacolt
+98682 Vancouver
+98683 Vancouver
+98684 Vancouver
+98685 Vancouver
+98686 Vancouver
+98687 Vancouver
+98801 Wenatchee
+98802 East Wenatchee
+98807 Wenatchee
+98811 Ardenvoir
+98812 Brewster
+98813 Bridgeport
+98814 Carlton
+98815 Cashmere
+98816 Chelan
+98817 Chelan Falls
+98819 Conconully
+98821 Dryden
+98822 Entiat
+98823 Ephrata
+98824 George
+98826 Leavenworth
+98827 Loomis
+98828 Malaga
+98829 Malott
+98830 Mansfield
+98831 Manson
+98832 Marlin
+98833 Mazama
+98834 Methow
+98836 Monitor
+98837 Moses Lake
+98840 Okanogan
+98841 Omak
+98843 Orondo
+98844 Oroville
+98845 Palisades
+98846 Pateros
+98847 Peshastin
+98848 Quincy
+98849 Riverside
+98850 Rock Island
+98851 Soap Lake
+98852 Stehekin
+98853 Stratford
+98855 Tonasket
+98856 Twisp
+98857 Warden
+98858 Waterville
+98859 Wauconda
+98860 Wilson Creek
+98862 Winthrop
+98901 Yakima
+98902 Yakima
+98903 Yakima
+98904 Yakima
+98907 Yakima
+98908 Yakima
+98909 Yakima
+98920 Brownstown
+98921 Buena
+98922 Cle Elum
+98923 Cowiche
+98925 Easton
+98926 Ellensburg
+98929 Naches
+98930 Grandview
+98932 Granger
+98933 Harrah
+98934 Kittitas
+98935 Mabton
+98936 Moxee
+98937 Naches
+98938 Outlook
+98939 Parker
+98940 Ronald
+98941 Roslyn
+98942 Selah
+98943 South Cle Elum
+98944 Sunnyside
+98946 Thorp
+98947 Tieton
+98948 Toppenish
+98950 Vantage
+98951 Wapato
+98952 White Swan
+98953 Zillah
+99001 Airway Heights
+99003 Chattaroy
+99004 Cheney
+99005 Colbert
+99006 Deer Park
+99008 Edwall
+99009 Elk
+99011 Fairchild Air Force Base
+99012 Fairfield
+99013 Ford
+99014 Four Lakes
+99016 Greenacres
+99017 Lamont
+99018 Latah
+99019 Liberty Lake
+99020 Marshall
+99021 Mead
+99022 Medical Lake
+99023 Mica
+99025 Newman Lake
+99026 Nine Mile Falls
+99027 Otis Orchards
+99029 Reardan
+99030 Rockford
+99031 Spangle
+99032 Sprague
+99033 Tekoa
+99034 Tumtum
+99036 Valleyford
+99037 Veradale
+99039 Waverly
+99040 Wellpinit
+99101 Addy
+99102 Albion
+99103 Almira
+99104 Belmont
+99105 Benge
+99107 Boyds
+99109 Chewelah
+99110 Clayton
+99111 Colfax
+99113 Colton
+99114 Colville
+99115 Coulee City
+99116 Coulee Dam
+99117 Creston
+99118 Curlew
+99119 Cusick
+99121 Danville
+99122 Davenport
+99123 Electric City
+99124 Elmer City
+99125 Endicott
+99126 Evans
+99128 Farmington
+99129 Fruitland
+99130 Garfield
+99131 Gifford
+99133 Grand Coulee
+99134 Harrington
+99135 Hartline
+99136 Hay
+99137 Hunters
+99138 Inchelium
+99139 Ione
+99140 Keller
+99141 Kettle Falls
+99143 Lacrosse
+99144 Lamona
+99146 Laurier
+99147 Lincoln
+99148 Loon Lake
+99149 Malden
+99150 Malo
+99151 Marcus
+99152 Metaline
+99153 Metaline Falls
+99154 Mohler
+99155 Nespelem
+99156 Newport
+99157 Northport
+99158 Oakesdale
+99159 Odessa
+99160 Orient
+99161 Palouse
+99163 Pullman
+99164 Pullman
+99165 Pullman
+99166 Republic
+99167 Rice
+99169 Ritzville
+99170 Rosalia
+99171 Saint John
+99173 Springdale
+99174 Steptoe
+99176 Thornton
+99179 Uniontown
+99180 Usk
+99181 Valley
+99185 Wilbur
+99201 Spokane
+99202 Spokane
+99203 Spokane
+99204 Spokane
+99205 Spokane
+99206 Spokane
+99207 Spokane
+99208 Spokane
+99209 Spokane
+99210 Spokane
+99211 Spokane
+99212 Spokane
+99213 Spokane
+99214 Spokane
+99215 Spokane
+99216 Spokane
+99217 Spokane
+99218 Spokane
+99219 Spokane
+99220 Spokane
+99223 Spokane
+99224 Spokane
+99228 Spokane
+99251 Spokane
+99252 Spokane
+99256 Spokane
+99258 Spokane
+99260 Spokane
+99299 Spokane
+99301 Pasco
+99302 Pasco
+99320 Benton City
+99321 Beverly
+99322 Bickleton
+99323 Burbank
+99324 College Place
+99326 Connell
+99328 Dayton
+99329 Dixie
+99330 Eltopia
+99333 Hooper
+99335 Kahlotus
+99336 Kennewick
+99337 Kennewick
+99338 Kennewick
+99341 Lind
+99343 Mesa
+99344 Othello
+99345 Paterson
+99346 Plymouth
+99347 Pomeroy
+99348 Prescott
+99349 Mattawa
+99350 Prosser
+99352 Richland
+99353 West Richland
+99354 Richland
+99356 Roosevelt
+99357 Royal City
+99359 Starbuck
+99360 Touchet
+99361 Waitsburg
+99362 Walla Walla
+99363 Wallula
+99371 Washtucna
+99401 Anatone
+99402 Asotin
+99403 Clarkston

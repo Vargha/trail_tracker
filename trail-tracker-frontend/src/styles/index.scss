@@ -1,0 +1,192 @@
+$standard-color: #327f4e;
+$lighter-standard-color: #4caf50;
+$background-color: #9c9c9c;
+$view-background-color: #f3f3f3;
+$light-text-color: #f3f3f3;
+$standard-border: 2px solid white;
+$highlight-color: #ff9800;
+$dark-shadow: 5px 10px 15px #3d3d3d;
+$small-dark-shadow: 2px 2px 5px #555555;
+$light-shadow: 2px 2px 5px #838383;
+
+.app {
+    text-align: center;
+    animation: fade-in 0.5s ease-in;
+    background: url(../resources/background.jpg) repeat;
+    background-size: 10% 10%;
+    height: 1000px;
+}
+
+.header {
+    padding-top: 2px;
+    height: 80px;
+    background-color: $standard-color;
+    box-shadow: $dark-shadow;
+}
+
+.header-text {
+    color: $view-background-color;
+}
+
+.header-separator {
+    height: 2px;
+    background-color: $standard-color;
+}
+
+.hike-modal {
+    text-align: center;
+    min-width: 800px;
+}
+
+.hike-modal-content {
+}
+
+.hike-link {
+    font-size: 16px;
+    color: $view-background-color;
+}
+
+.hike-modal-header {
+    background-color: $standard-color;
+    height: 80px;
+    box-shadow: $light-shadow;
+}
+
+.hike-image-frame {
+    padding: 20px;
+}
+
+.hike-details-container {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.hike-details {
+    padding: 10px 10px;
+    text-align: center;
+    background-color: $standard-color;
+    color: $view-background-color;
+    box-shadow: $light-shadow;
+}
+
+.hike-image {
+    border: 1px $highlight-color solid;
+    box-shadow: $light-shadow;
+    height: 350px;
+    max-width: 100%;
+}
+
+.hike-detail {
+    border-radius: 1px;
+    padding: 3px;
+    background-color: #40a364;
+    text-align: center;
+    box-shadow: $small-dark-shadow;
+}
+
+.hike-detail-label {
+    font-size: 16px;
+}
+
+.hike-detail-value {
+    font-size: 18px;
+    color: $highlight-color;
+}
+
+.map-view {
+    box-shadow: $dark-shadow;
+}
+
+.map-placeholder {
+    font-size: 30px
+}
+
+.basic-view-header {
+    text-align: center;
+    font-size: 24px;
+}
+
+.basic-view {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: $view-background-color;
+    border: $standard-border;
+    width: 100%;
+    box-shadow: $dark-shadow;
+}
+
+.parameter-view {
+    @extend .basic-view;
+}
+
+.parameter-value {
+    text-align: center;
+    font-size: 20px;
+}
+
+.results-view {
+    @extend .basic-view;
+    height: 100%;
+}
+
+.base-result-view {
+    height: 108px;
+    padding: 10px;
+    color: $light-text-color;
+    box-shadow: 0px 2px 2px #9b9b9b;
+}
+
+.blank-result-view {
+    height: 108px;
+}
+
+.result-view {
+    @extend .base-result-view;
+    transition: 0.25s;
+    background-color: white;
+}
+
+.result-view-selected {
+    @extend .base-result-view;
+    transition: 1s;
+    background-color: $highlight-color;
+}
+
+.result-view div {
+    padding-top: 4px;
+    height: 89px;
+    background-color: $standard-color;
+    box-shadow: 0px 2px 2px #9b9b9b;
+}
+
+.result-view div:hover {
+    cursor: pointer;
+    transition: 0.25s;
+    background-color: $lighter-standard-color;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.flipped {
+    transform: scale(-1, 1);
+}
+
+.spinning {
+    animation: spin infinite 1s linear;
+}

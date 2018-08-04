@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "outDir": "build/dist",
+    "module": "esnext",
+    "target": "es5",
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "jsx": "react",
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "sourceMap": true,
+    "allowJs": true,
+    "forceConsistentCasingInFileNames": false,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": false,
+    "noStrictGenericChecks": true,
+    "allowSyntheticDefaultImports": true,
+    "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "noUnusedLocals": false,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "strict": true
+  },
+  "exclude": [
+    "node_modules",
+    "build",
+    "scripts",
+    "acceptance-tests",
+    "webpack"
+  ]
+}

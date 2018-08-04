@@ -1,0 +1,11 @@
+{
+  "name": "trail-tracker-frontend-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "serve --port $PORT"
+  },
+  "dependencies": {
+    "serve": "*"
+  }
+}
