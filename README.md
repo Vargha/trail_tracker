@@ -24,7 +24,6 @@ To run the frontend:
 
 As long as the backend is running locally on localhost:5000, the frontend (when run locally) will use the
 local server on port 5000.
-If you have any issues running the code contact: jakeploskey@gmail.com
 
 :::DATABASE:::
 
