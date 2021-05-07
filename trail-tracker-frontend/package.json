@@ -7,7 +7,7 @@
     "bootswatch": "^3.3.7",
     "google-maps-react": "^1.1.2",
     "latest-version": "^3.1.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "mobx": "^3.3.1",
     "mobx-react": "^4.3.4",
     "react": "^16.0.0",
