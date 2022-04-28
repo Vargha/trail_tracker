@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "bootswatch": "^3.3.7",
     "google-maps-react": "^1.1.2",
     "latest-version": "^3.1.0",
