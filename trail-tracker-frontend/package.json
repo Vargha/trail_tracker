@@ -27,7 +27,7 @@
     "@types/react-helmet": "^5.0.3",
     "@types/webpack": "^3.8.0",
     "@types/webpack-env": "^1.13.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-sass": "^3.1.0",
     "gutil": "^1.6.4",
     "react-scripts-ts": "^2.8.0",
